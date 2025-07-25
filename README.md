@@ -16,8 +16,11 @@ The dataset used is the built-in **Diabetes dataset** from `sklearn.datasets`. I
 ## 📌 Project Structure
 
 ├── main.py # Main script to train and evaluate the model
+
 ├── pipeline.pkl # (Optional) Saved trained pipeline
+
 ├── requirements.txt # List of dependencies
+
 ├── README.md # This file
 
 ---
